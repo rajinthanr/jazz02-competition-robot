@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "loop.h": "c",
+        "iosfwd": "cpp"
+    }
+}
