@@ -1,0 +1,15 @@
+# CMake / Ninja build output (configure into Firmware/build/, never into the source tree)
+Firmware/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+.ninja_deps
+.ninja_log
+compile_commands.json
+*.o
+*.obj
+*.elf
+*.map
+*.hex
+*.bin

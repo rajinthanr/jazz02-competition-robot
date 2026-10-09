@@ -1,5 +1,0 @@
-C:/Users/Raspi/OneDrive/Documents/Raspi/Projects/Jazz/Jazz02/CMakeFiles/Jazz02.dir
-C:/Users/Raspi/OneDrive/Documents/Raspi/Projects/Jazz/Jazz02/CMakeFiles/edit_cache.dir
-C:/Users/Raspi/OneDrive/Documents/Raspi/Projects/Jazz/Jazz02/CMakeFiles/rebuild_cache.dir
-C:/Users/Raspi/OneDrive/Documents/Raspi/Projects/Jazz/Jazz02/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-C:/Users/Raspi/OneDrive/Documents/Raspi/Projects/Jazz/Jazz02/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
